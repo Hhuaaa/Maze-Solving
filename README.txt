@@ -25,3 +25,6 @@ The robot's ability to follow commands from the infrared remote was reliable, pr
 Conclusion:
 The maze-solving robot achieved a significant level of operational success, demonstrating the effectiveness of integrating multiple sensors and control systems in real-time navigation tasks.
 In conclusion, the project serves as a robust platform for further research and development in autonomous robotic navigation, with ample opportunities for enhancements in both hardware and software domains. The learnings from this implementation could inform future designs, making them more versatile and capable in complex environments.
+
+Demo Video:
+https://youtube.com/shorts/9Rs64YI2gzc?si=-wTqsvZ9HpJDobMh
